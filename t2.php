@@ -1,4 +1,4 @@
 <?php
-function ff($1){
+function ff($kkkk){
 echo "error var";
 }
