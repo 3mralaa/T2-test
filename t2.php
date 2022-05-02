@@ -1,2 +1,4 @@
 <?php
-echo "TEST;
+function ff($1){
+echo "error var";
+}
