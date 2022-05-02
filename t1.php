@@ -1,4 +1,4 @@
 <?php
-// TEST
+// TEST2
 phpinfo();
-// TEST
+// TEST2
