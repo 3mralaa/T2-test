@@ -1,4 +1,2 @@
 <?php
-// TEST233333311111
 phpinfo();
-// TEST233333311111sss
