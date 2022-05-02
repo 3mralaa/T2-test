@@ -1,7 +1,1 @@
-<?php
-fff2
-amr
-  test Error 
-  echo "Error';
-  
-  ?>
+TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
